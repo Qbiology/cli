@@ -1,5 +1,11 @@
 # Changelog
 
+## [9.8.2](https://github.com/npm/cli/compare/v9.8.1...v9.8.2) (2023-08-14)
+
+### Documentation
+
+* [`9750720`](https://github.com/npm/cli/commit/975072058e0fcec25074d73514cd50ea180b54fe) [#6694](https://github.com/npm/cli/pull/6694) fix example path (#6694) (@fvilers)
+
 ## [9.8.1](https://github.com/npm/cli/compare/v9.8.0...v9.8.1) (2023-07-18)
 
 ### Bug Fixes
